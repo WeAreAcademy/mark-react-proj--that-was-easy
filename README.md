@@ -71,13 +71,13 @@ You can log this variable to the console in order to check that it is changing a
 
 Pass this variable into the child components and use it to change the class name on the buttons. Change something about the appearance of the buttons based off of it.
 
-## Exercise 4: Calling a higher order click handler
+Hint: to do this you will need to make a click handler function in the parent which changes the state, and pass this click handler function down to the children components where it can be called. Note that state is always managed by the lower common ancestor and so will be managed by the parent here in order for all of the children to be given access to it. 
+
+## Exercise 4: Toggling state
 
 > 🎯 **Success criterion:** toggle the buttons' state with every click
 
 So far, when a button has been clicked the appearance of all the buttons will change and cannot be changed back unless you initialise the state again (by refreshing the page). Now, make it so that each time you click a button the state flips and the appearance changes (change between true and false on every click). 
-
-Hint: to do this you will need to make a click handler function in the parent which changes the state, and pass this click handler function down to the children components where it can be called. Note that state is always managed by the lower common ancestor and so will be managed by the parent here in order for all of the children to be given access to it. 
 
 ## Exercise 5: Click counter
 
