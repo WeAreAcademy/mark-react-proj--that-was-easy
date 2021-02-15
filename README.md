@@ -42,7 +42,7 @@ Take ten mins to experiment with the look of the button:
 
 ## Exercise 2:
 
-> 🎯 **Success criterion:** Multiple buttons which each alert the user about diffierent levels of "easiness"
+> 🎯 **Success criterion:** Multiple buttons which each alert the user about different levels of "easiness"
 
 ### Exercise 2a: More button options
 
