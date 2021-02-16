@@ -85,7 +85,7 @@ So far, when a button has been clicked the appearance of all the buttons will ch
 
 Add a click counter which counts the number of times the user has clicked button cumulatively. This can be shown however you please.
 
-## Exercise 6: Inidividual click counters
+## Exercise 6: Individual click counters
 
 > 🎯 **Success criterion:** click counter for every button separately
 
